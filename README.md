@@ -8,3 +8,4 @@ Using the data on the MAL website and machine learning algorithms we will try an
 
 
 ![alt text](https://github.com/roeelq323/Anime-Rating-Project/blob/main/picture/mal.png?raw=true)
+here is an explanation video about the project: https://youtu.be/iy4sGbRdXJw
